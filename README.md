@@ -7,7 +7,7 @@ How to play on the UNSW Hall Minecraft server.
 4. Run Minecraft with NeoForge installed.
 5. Open the .minecraft folder (open Minecraft launcher/ Installations/ folder icon next to NeoForge)
 6. Navigate to the mods folder (.minecraft/mods)
-7. Upload and unzip ModsForHall.zip into the mods folder (Google Drive link: https://drive.google.com/file/d/1UV982PraRBA4xvkDK0TmLOuY7_14iyFG/view?usp=sharing)
+7. Upload and unzip ModsForHall.zip into the mods folder, make sure the mods are in the 'mods' folder, not the 'ModsForHall' folder (Google Drive link: https://drive.google.com/file/d/1UV982PraRBA4xvkDK0TmLOuY7_14iyFG/view?usp=sharing)
 8. Relaunch Minecraft with Neoforge installed.
 9. Add the Hall server under the multiplayer menu (Server Address: UNSWHall.mcjoin.me)
 
