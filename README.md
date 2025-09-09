@@ -14,5 +14,6 @@ How to play on the UNSW Hall Minecraft server.
 Any issues, please ask Tom in the Discord :)
 
 TROUBLESHOOTING
-"Channel of mod "GlitchCore" failed to connect..."
-  Ensure the mod files (.jar files) are placed in the 'mods' folder, not another folder like 'ModsForHall'.
+
+Issue: "Channel of mod "GlitchCore" failed to connect..."
+Solution: Ensure the mod files (.jar files) are placed in the 'mods' folder, not in another folder, such as 'ModsForHall'.
