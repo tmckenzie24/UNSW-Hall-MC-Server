@@ -16,4 +16,5 @@ Any issues, please ask Tom in the Discord :)
 TROUBLESHOOTING
 
 Issue: "Channel of mod "GlitchCore" failed to connect..."
+
 Solution: Ensure the mod files (.jar files) are placed in the 'mods' folder, not in another folder, such as 'ModsForHall'.
