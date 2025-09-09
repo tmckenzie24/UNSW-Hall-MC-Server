@@ -11,4 +11,8 @@ How to play on the UNSW Hall Minecraft server.
 8. Relaunch Minecraft with Neoforge installed.
 9. Add the Hall server under the multiplayer menu (Server Address: UNSWHall.mcjoin.me)
 
-Any issues please ask Tom in the Discord :)
+Any issues, please ask Tom in the Discord :)
+
+TROUBLESHOOTING
+"Channel of mod "GlitchCore" failed to connect..."
+  Ensure the mod files (.jar files) are placed in the 'mods' folder, not another folder like 'ModsForHall'.
